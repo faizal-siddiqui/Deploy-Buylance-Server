@@ -1656,7 +1656,15 @@
       "mobile": 7067789997,
       "gender": "Male",
       "birthDate": "23-09-2000",
-      "location": "Delhi",
+      "location": {
+        "street": "15 A Vasant Vihar",
+        "city": "Hyderabad",
+        "state": "India",
+        "postal_code": "786875",
+        "country": "Andhra Pradesh",
+        "social": "",
+        "email": ""
+      },
       "cardDetails": "89878676265441",
       "password": "Avin!234",
       "cart": [
